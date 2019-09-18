@@ -12,6 +12,9 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "mem": ">=4.0.0",
+    "braces": ">=2.3.1",
+    "ws": ">=3.3.1",
     "@expo/samples": "~3.0.3",
     "@expo/vector-icons": "^10.0.3",
     "@react-navigation/web": "^1.0.0-alpha.9",
@@ -28,9 +31,6 @@
     "react-navigation": "^3.11.0"
   },
   "devDependencies": {
-    "mem": ">=4.0.0",
-    "braces": ">=2.3.1",
-    "ws": ">=3.3.1",
     "babel-preset-expo": "^6.0.0",
     "jest-expo": "^34.0.0"
   },
